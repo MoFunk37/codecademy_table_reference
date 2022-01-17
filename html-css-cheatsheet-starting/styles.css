@@ -6,6 +6,8 @@ body {
 h1 {
   background-color: powderblue;
   color: darkslategray;
+  width: 300px;
+  margin: 0 auto;
 }
 
 h1,
@@ -22,17 +24,20 @@ h2 {
 table {
   border: 1px solid;
   border-color: darkblue;
-  margin: auto;
+  margin: 0 auto;
+  width: 700px;
 }
 
 th {
   text-align: center;
   font-size: 20px;
+  padding: 10px;
 }
 
 td {
   background-color: lightcyan;
   color: ActiveCaptiongray;
+  padding: 10px;
 }
 
 .code {
